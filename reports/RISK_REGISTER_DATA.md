@@ -1,7 +1,3 @@
-# Final Risk Register Data
-
-This document contains the raw data from the risk assessment activity in a readable Markdown format. For the spreadsheet version, refer to the [CSV file](./Risk_Register_Final.csv).
-
 ## Risk Register Table
 
 | Asset | Risk | Description | Likelihood | Severity | Priority |
